@@ -3,7 +3,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 ---
 
-## The effect each of the P, I, D components
+## The effect of each of the P, I, D components
 
 This repository contains my solution to Udacity SDC ND project for PID control. The PID parameters should be tuned/selected by some optimization technique, to make it possible for the vehicle in the simulator drive safely along the track.
 
